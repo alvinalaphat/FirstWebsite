@@ -1,3 +1,3 @@
 # FirstWebsite
 
-Experimenting with logins, databases, and Python Flask
+Experimenting with Python Flask and SQLALchemy
